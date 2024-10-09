@@ -31,7 +31,7 @@
   display: inline-block;
 }
 
-@keyframes an {
+/* @keyframes an {
   from {
     opacity: 0;
     transform: perspective(500px) translate3d(-35px, -40px, -150px) rotate3d(1, -1, 0, 35deg);
@@ -41,6 +41,13 @@
     opacity: 1;
     transform: perspective(500px) translate3d(0, 0, 0);
   }
+} */
+
+@keyframes an {
+	60% {transform: translate(20px, 0) scale(1); color: #090006;}
+	80% {transform: translate(20px, 0) scale(1); color: #8c8b8c;}
+	99% {transform: translate(0) scale(1.2); color: #00f0ff;}
+	100% {transform: translate(0) scale(1); color: #fff; opacity: 1;}
 }
 
 .hidden {
