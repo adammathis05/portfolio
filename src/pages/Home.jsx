@@ -5,15 +5,15 @@ import Welcome from "../components/home/Welcome";
 import Box from "@mui/material/Box";
 import "../components/home/Intro.css"; // Import CSS file for styles
 import Portfolio2 from "../components/home/CardStackingPortfolio";
-import ScrollTriggeredAbout from "../components/AlternateOrTest/ScrollTriggeredAbout";
+
 // TODO Parallax effects on this page
 
 export default function Home() {
   return (
     <Box>
       <Welcome />
-      {/* <Intro /> */}
-      <ScrollTriggeredAbout/>
+      <Intro />
+
       <div className="parallax">
 
       </div>
