@@ -15,7 +15,7 @@ export default function Footer() {
                     justifyContent: "center",
                     color: "#A5A9B4",
                 }}>
-                    Footer
+                    
                 </Typography>
             </Box>
         </footer>
