@@ -95,7 +95,7 @@ main {
 
 .parallax {
 
-  background-image: url("city.jpg");
+  background-image: url("/city.jpg");
   min-height: 500px;
   background-attachment: fixed;
   background-position: center;

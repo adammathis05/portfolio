@@ -109,6 +109,7 @@ export default function Nav() {
                     flexDirection: "column",
                     alignItems: "center",
                     padding: "0",
+                    font: "Thasadith",
                   }}
                 >
                   {/* <img
