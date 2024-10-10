@@ -8,10 +8,19 @@
 }
 
 @font-face { 
-  font-family: 'Triforce'; 
-  src: url('../../assets/fonts/Triforce.ttf') format('woff'); 
-  src: url('../../assets/fonts/Triforce.ttf') format('woff2'); 
-  src: url('../../assets/fonts/Triforce.ttf') format('truetype');
+  font-family: 'Cagar'; 
+  src: url('../../assets/fonts/Cagar.otf') format('woff'); 
+  src: url('../../assets/fonts/Cagar.otf') format('woff2'); 
+  src: url('../../assets/fonts/Cagar.otf') format('truetype');
+  font-weight: normal; 
+  font-style: normal; 
+}
+
+@font-face { 
+  font-family: 'Quantify'; 
+  src: url('../../assets/fonts/Quantify.ttf') format('woff'); 
+  src: url('../../assets/fonts/Quantify.ttf') format('woff2'); 
+  src: url('../../assets/fonts/Quantify.ttf') format('truetype');
   font-weight: normal; 
   font-style: normal; 
 }
@@ -26,28 +35,10 @@
 }
 
 @font-face { 
-  font-family: 'Bolton'; 
-  src: url('../../assets/fonts/Bolton.ttf') format('woff'); 
-  src: url('../../assets/fonts/Bolton.ttf') format('woff2'); 
-  src: url('../../assets/fonts/Bolton.ttf') format('truetype');
-  font-weight: normal; 
-  font-style: normal; 
-}
-
-@font-face { 
-  font-family: 'BoltonTitleShadow'; 
-  src: url('../../assets/fonts/BoltonTitlingShadowed.ttf') format('woff'); 
-  src: url('../../assets/fonts/BoltonTitlingShadowed.ttf') format('woff2'); 
-  src: url('../../assets/fonts/BoltonTitlingShadowed.ttf') format('truetype');
-  font-weight: normal; 
-  font-style: normal; 
-}
-
-@font-face { 
-  font-family: 'BoltonShadow'; 
-  src: url('../../assets/fonts/BoltonShadowed.ttf') format('woff'); 
-  src: url('../../assets/fonts/BoltonShadowed.ttf') format('woff2'); 
-  src: url('../../assets/fonts/BoltonShadowed.ttf') format('truetype');
+  font-family: 'Adam'; 
+  src: url('../../assets/fonts/Adam-Bold.ttf') format('woff'); 
+  src: url('../../assets/fonts/Adam-Bold.ttf') format('woff2');
+  src: url('../../assets/fonts/Adam-Bold.ttf') format('truetype');
   font-weight: normal; 
   font-style: normal; 
 }

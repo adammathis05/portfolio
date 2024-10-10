@@ -74,7 +74,7 @@ html,
 body,
 #root,
 main {
-  background: linear-gradient(105deg, #0d324d, #1b4e74, #7f5a83, #ad94af);
+  background: linear-gradient(105deg, #022136, #1b4e74, #7f5a83, #ad94af);
   background-size: 240% 240%;
   animation: gradient-animation 18s ease infinite;
 }
