@@ -24,7 +24,7 @@ const socialIcons = [
     label: "Email Me",
     href: `mailto:adammathis.dev@gmail.com`,
   },
-];
+]; 
 
 const StyledTooltip = styled(({ className, ...props }) => (
   <Tooltip {...props} arrow classes={{ popper: className }} />
